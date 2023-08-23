@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Efficient Towing",
+    "description": "We provide efficient and reliable flatbed towing services for all vehicle sizes.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Sustainable Recycling",
+    "description": "We buy cars and responsibly recycle them for a greener future.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Expert Team",
+    "description": "Our team of towing professionals ensures your vehicles are handled with care.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
