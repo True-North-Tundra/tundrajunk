@@ -1,13 +1,10 @@
 ---
-title: "Wealth Management"
+title: "Eco-Friendly Approach"
 date: 2019-06-18T12:33:46+10:00
 weight: 8
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Embrace our eco-friendly approach as we contribute to a cleaner environment through responsible recycling.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
