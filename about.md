@@ -9,7 +9,7 @@ bodyClass: page-about
 
 Hey there, I'm Brandon, and I'm the driving force behind True North Tundra Junk! 🚗💨
 
-![Tundra Junk](/images/tundra-junk.jpg)
+![Tundra Junk](/images/IMG-9547.jpg)
 
 ## Who We Are
 
