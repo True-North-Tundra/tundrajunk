@@ -32,9 +32,9 @@ At True North Tundra Junk, we're on a mission to transform old and unused vehicl
 
 Got a vehicle ready for a new chapter? Curious about our services? Let's chat.
 
-**Website:** [tundrajunk.com](https://www.tundrajunk.com)
-**Phone:** [204-960-0090]
-**Email:** [truenorth@tundrajunk.com]
+**Website:** tundrajunk.com (https://www.tundrajunk.com)
+**Phone:** 204-960-0090
+**Email:** truenorth@tundrajunk.com
 
 Together, let's pave the way for a brighter automotive future!
 
