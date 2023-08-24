@@ -13,7 +13,6 @@ Hey there, I'm Brandon, and I'm the driving force behind True North Tundra Junk!
 
 ## Who We Are
 
-
 True North Tundra Junk isn't just a company; it's a passion project born out of a love for vehicles and a commitment to sustainability. With my trusty flatbed tow truck, I specialize in giving unwanted vehicles a new lease on life.
 
 ## Our Mission
@@ -38,6 +37,12 @@ Got a vehicle ready for a new chapter? Curious about our services? Let's chat.
 - **Website:** [tundrajunk.com](https://www.tundrajunk.com)
 - **Phone:** 204-960-0090
 - **Email:** truenorth@tundrajunk.com
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/tundrajunk/book-a-meeting?hide_gdpr_banner=1&background_color=f5e1e1&primary_color=f58f8f'});return false;">Schedule time with me</a>
+<!-- Calendly link widget end -->
 
 Together, let's pave the way for a brighter automotive future!
 
