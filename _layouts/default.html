@@ -24,6 +24,8 @@
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
 
+</head>
+
 <body class='page {{layout.bodyClass}}'>
   {% include main-menu-mobile.html %}
   <div id="wrapper" class="wrapper">
@@ -37,15 +39,13 @@
   <script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
   <script src="https://mediafiles.botpress.cloud/734c9d7d-b741-4752-a68d-486608b77a50/webchat/config.js" defer></script>
   <script>
-    // Add event listener to Calendly link clicks
+    // Add event listener to open Calendly pop-up
     document.addEventListener("DOMContentLoaded", function() {
-      var calendlyLinks = document.querySelectorAll(".calendly-link"); // Replace with the appropriate selector
-      
-      calendlyLinks.forEach(function(link) {
-        link.addEventListener("click", function(e) {
-          e.preventDefault();
-          Calendly.initPopupWidget({ url: link.href });
-        });
+      var calendlyLink = document.getElementById("calendly-link");
+
+      calendlyLink.addEventListener("click", function(e) {
+        e.preventDefault();
+        Calendly.initPopupWidget({ url: calendlyLink.href });
       });
     });
   </script>
