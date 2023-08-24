@@ -23,7 +23,7 @@ Feel free to reach out to me via phone, email, or by using the contact form belo
 
 If you prefer, you can also use the contact form below to send me a message directly. Please provide some details about your inquiry, and I'll get back to you as soon as possible.
 
-[Contact Form](/contact-form) <!-- Replace with your actual contact form URL -->
+[Contact Form](/https://calendly.com/tundrajunk/30min) <!-- Replace with your actual contact form URL -->
 
 ## Let's Connect
 
