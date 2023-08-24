@@ -1,32 +1,42 @@
+---
 title: About
 layout: page
 description: About True North Tundra Junk
 bodyClass: page-about
-Welcome to True North Tundra Junk 🚗🔧
+---
 
-At True North Tundra Junk, we're not just in the business of vehicles – we're in the business of turning unwanted rides into fresh opportunities. My name is Brandon, and I'm the proud owner of this endeavor, committed to providing a seamless solution for those looking to part ways with their vehicles while contributing to a sustainable future.
+# About Me: Brandon, Owner of True North Tundra Junk
 
-Tundra Junk
+Hey there, I'm Brandon, and I'm the driving force behind True North Tundra Junk! 🚗💨
 
-Our Mission
-Our mission is simple yet impactful: to give a new life to vehicles that have served their purpose. With a flatbed tow truck ready to hit the road, we specialize in buying vehicles that people no longer need, and then giving them the chance to be reborn as valuable resources.
+![Tundra Junk](/images/tundra-junk.jpg)
 
-Why Choose Us?
-✅ Transparency: We believe in open communication and fairness throughout the process.
-✅ Professionalism: Our team handles every step with the utmost professionalism and care.
-✅ Sustainability: By recycling and repurposing, we're contributing to a greener environment.
-✅ Hassle-Free: Say goodbye to the hassle of selling your vehicle privately – we've got you covered.
+## Who We Are
 
-"Turning the old into new possibilities."
+True North Tundra Junk isn't just a company; it's a passion project born out of a love for vehicles and a commitment to sustainability. With my trusty flatbed tow truck, I specialize in giving unwanted vehicles a new lease on life.
 
-Contact Us
-Got a vehicle you're ready to let go of? Interested in learning more about our services? Reach out to us – your reliable partner on the journey of vehicle transformation.
+## Our Mission
 
-Visit us: tundrajunk.com
-Call us: 204-960-0090
-Email us: truenorth@tundrajunk.com
+At True North Tundra Junk, we're on a mission to transform old and unused vehicles into fresh opportunities. We buy vehicles that are no longer needed and give them a chance to contribute to a greener future.
 
-Let's talk about how we can make a difference together.
+## What Sets Us Apart
+
+✅ **Transparency**: We believe in honest and open communication every step of the way.
+✅ **Professionalism**: Our team handles every vehicle with professionalism and care.
+✅ **Sustainability**: We're dedicated to recycling and reducing waste for a better environment.
+✅ **Hassle-Free**: Say goodbye to the stress of selling your vehicle privately – we've got you covered.
+
+> "Turning the old into new possibilities."
+
+## Contact Me
+
+Got a vehicle ready for a new chapter? Curious about our services? Let's chat.
+
+**Website:** [tundrajunk.com](https://www.tundrajunk.com)
+**Phone:** [204-960-0090]
+**Email:** [truenorth@tundrajunk.com]
+
+Together, let's pave the way for a brighter automotive future!
 
 Best regards,
 Brandon
