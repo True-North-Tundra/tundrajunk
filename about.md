@@ -1,87 +1,34 @@
----
 title: About
 layout: page
-description: About
+description: About True North Tundra Junk
 bodyClass: page-about
----
+Welcome to True North Tundra Junk 🚗🔧
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+At True North Tundra Junk, we're not just in the business of vehicles – we're in the business of turning unwanted rides into fresh opportunities. My name is Brandon, and I'm the proud owner of this endeavor, committed to providing a seamless solution for those looking to part ways with their vehicles while contributing to a sustainable future.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+Tundra Junk
 
-# Objectives
+Our Mission
+Our mission is simple yet impactful: to give a new life to vehicles that have served their purpose. With a flatbed tow truck ready to hit the road, we specialize in buying vehicles that people no longer need, and then giving them the chance to be reborn as valuable resources.
 
-Financial accounting and financial reporting are often used as synonyms.
+Why Choose Us?
+✅ Transparency: We believe in open communication and fairness throughout the process.
+✅ Professionalism: Our team handles every step with the utmost professionalism and care.
+✅ Sustainability: By recycling and repurposing, we're contributing to a greener environment.
+✅ Hassle-Free: Say goodbye to the hassle of selling your vehicle privately – we've got you covered.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+"Turning the old into new possibilities."
 
-## Relevance
+Contact Us
+Got a vehicle you're ready to let go of? Interested in learning more about our services? Reach out to us – your reliable partner on the journey of vehicle transformation.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Visit us: tundrajunk.com
+Call us: 204-960-0090
+Email us: truenorth@tundrajunk.com
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Let's talk about how we can make a difference together.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Best regards,
+Brandon
+Owner, True North Tundra Junk
+🚗🌟
