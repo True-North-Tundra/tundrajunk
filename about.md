@@ -9,9 +9,10 @@ bodyClass: page-about
 
 Hey there, I'm Brandon, and I'm the driving force behind True North Tundra Junk! 🚗💨
 
-![Tundra Junk](/https://w7.pngwing.com/pngs/447/389/png-transparent-pickup-truck-car-vehicle-tow-truck-towing-tow-truck-truck-car-motorcycle-thumbnail.png)
+![Tundra Junk](https://w7.pngwing.com/pngs/447/389/png-transparent-pickup-truck-car-vehicle-tow-truck-towing-tow-truck-truck-car-motorcycle-thumbnail.png)
 
 ## Who We Are
+
 
 True North Tundra Junk isn't just a company; it's a passion project born out of a love for vehicles and a commitment to sustainability. With my trusty flatbed tow truck, I specialize in giving unwanted vehicles a new lease on life.
 
