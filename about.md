@@ -9,7 +9,7 @@ bodyClass: page-about
 
 Hey there, I'm Brandon, and I'm the driving force behind True North Tundra Junk! 🚗💨
 
-![Tundra Junk](/images/IMG-9547.jpg)
+![Tundra Junk](/images/https://w7.pngwing.com/pngs/447/389/png-transparent-pickup-truck-car-vehicle-tow-truck-towing-tow-truck-truck-car-motorcycle-thumbnail.png)
 
 ## Who We Are
 
@@ -21,10 +21,12 @@ At True North Tundra Junk, we're on a mission to transform old and unused vehicl
 
 ## What Sets Us Apart
 
-✅ **Transparency**: We believe in honest and open communication every step of the way.
-✅ **Professionalism**: Our team handles every vehicle with professionalism and care.
-✅ **Sustainability**: We're dedicated to recycling and reducing waste for a better environment.
-✅ **Hassle-Free**: Say goodbye to the stress of selling your vehicle privately – we've got you covered.
+At True North Tundra Junk, we stand out from the rest with our commitment to excellence:
+
+- ✅ **Transparency**: We believe in honest and open communication every step of the way.
+- ✅ **Professionalism**: Our team handles every vehicle with professionalism and care.
+- ✅ **Sustainability**: We're dedicated to recycling and reducing waste for a better environment.
+- ✅ **Hassle-Free**: Say goodbye to the stress of selling your vehicle privately – we've got you covered.
 
 > "Turning the old into new possibilities."
 
@@ -32,9 +34,9 @@ At True North Tundra Junk, we're on a mission to transform old and unused vehicl
 
 Got a vehicle ready for a new chapter? Curious about our services? Let's chat.
 
-**Website:** tundrajunk.com (https://www.tundrajunk.com)
-**Phone:** 204-960-0090
-**Email:** truenorth@tundrajunk.com
+- **Website:** [tundrajunk.com](https://www.tundrajunk.com)
+- **Phone:** 204-960-0090
+- **Email:** truenorth@tundrajunk.com
 
 Together, let's pave the way for a brighter automotive future!
 
