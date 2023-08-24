@@ -9,7 +9,7 @@ bodyClass: page-contact
 
 Have questions, inquiries, or ready to take the next step? I'm here to assist you.
 
-![Contact Us](/images/contact-image.jpg)
+![Contact Us](/images/illustrations/IMG-9534.jpg)
 
 ## Reach Out
 
