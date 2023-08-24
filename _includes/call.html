@@ -13,12 +13,7 @@
   </div>
   {% if include.show_button %}
     <div class="call-box-bottom">
-      <a href="{{ site.data.contact.contact_button_link }}" class="button">Contact</a>
-      <!-- Calendly link widget begin -->
-      <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-      <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/tundrajunk/book-a-meeting?hide_gdpr_banner=1&background_color=f5e1e1&primary_color=f58f8f'});return false;">Schedule time with me</a>
-      <!-- Calendly link widget end -->
+      <a href="{{ site.data.contact.contact_button_link }}" class="button" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/tundrajunk/book-a-meeting?hide_gdpr_banner=1&background_color=f5e1e1&primary_color=f58f8f'});return false;">Contact and Schedule Time</a>
     </div>
   {% endif %}
 </div>
