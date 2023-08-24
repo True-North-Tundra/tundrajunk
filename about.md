@@ -9,7 +9,7 @@ bodyClass: page-about
 
 Hey there, I'm Brandon, and I'm the driving force behind True North Tundra Junk! 🚗💨
 
-![Tundra Junk](/images/https://w7.pngwing.com/pngs/447/389/png-transparent-pickup-truck-car-vehicle-tow-truck-towing-tow-truck-truck-car-motorcycle-thumbnail.png)
+![Tundra Junk](/https://w7.pngwing.com/pngs/447/389/png-transparent-pickup-truck-car-vehicle-tow-truck-towing-tow-truck-truck-car-motorcycle-thumbnail.png)
 
 ## Who We Are
 
