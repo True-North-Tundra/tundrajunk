@@ -15,16 +15,6 @@ Have questions, inquiries, or ready to take the next step? I'm here to assist yo
 
 Feel free to reach out to me via phone, email, or by using the contact form below. Whether you're looking to sell a vehicle, explore our services, or just want to connect, I'm eager to hear from you.
 
-**Phone:** 204-960-0090
-
-**Email:** truenorth@tundrajunk.com
-
-## Contact Form
-
-If you prefer, you can also use the contact form below to send me a message directly. Please provide some details about your inquiry, and I'll get back to you as soon as possible.
-
-[Contact Form](/https://calendly.com/tundrajunk/30min) <!-- Replace with your actual contact form URL -->
-
 ## Let's Connect
 
 Join me on social media for updates, insights, and the latest happenings in the world of automotive transformation.
