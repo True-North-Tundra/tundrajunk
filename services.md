@@ -17,4 +17,4 @@ Car Recycling, 80's Style: Embrace the spirit of the 80s with our unique approac
 
 Vibrant Excellence: Just like those retro snowmobiles that turned heads, our services stand out in the crowd. Our bright blue primary hue exudes reliability, while the dark blue adds a touch of mystery. And who can ignore the hot pink accents that scream excitement?
 
-Navigate through our website to uncover the bold services we offer and the passion we bring to every tow and recycling journey. Trust [Your Company Name] for an experience that's not only top-notch but also an homage to the iconic 80s era. Let's hit the road – together!
+Navigate through our website to uncover the bold services we offer and the passion we bring to every tow and recycling journey. Trust Tundra Junk for an experience that's not only top-notch but also an homage to the iconic 80s era. Let's hit the road – together!
