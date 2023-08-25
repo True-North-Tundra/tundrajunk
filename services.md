@@ -9,7 +9,7 @@ intro_image_hide_on_mobile: true
 
 # Services that pay and clean up the climate
 
-Experience Unmatched Towing and Recycling Services with a Dash of 80's Snowmobile Vibes! At [Your Company Name], we're not just your ordinary flatbed towing company – we're your partners in adventure, sustainability, and exceptional service.
+Experience Unmatched Towing and Recycling Services with a Dash of 80's Snowmobile Vibes! At Tundra Junk, we're not just your ordinary flatbed towing company – we're your partners in adventure, sustainability, and exceptional service.
 
 Flatbed Towing: Our dynamic and reliable flatbed towing services ensure that your vehicle gets where it needs to be, safe and sound. Whether it's a compact car or a rugged SUV, our expert team handles every tow with precision and care.
 
