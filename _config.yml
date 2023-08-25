@@ -3,9 +3,9 @@ permalink: pretty
 title: 'Tundra Junk'
 
 logo:
-  mobile: "images/logo/logo.svg"
+  mobile: "images/logo/logo-mobile1.png"
   mobile_height: "32px"
-  mobile_width: "120px"
+  mobile_width: "32x"
   desktop: "images/logo/logo.png"
   desktop_height: "32px"
   desktop_width: "120px"
