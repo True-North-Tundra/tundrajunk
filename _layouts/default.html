@@ -23,43 +23,32 @@
   <meta name="twitter:card" content="summary"/>
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
-
 </head>
 
 <body>
   <!-- Your HTML content, navigation, and layout go here -->
   
-  <!-- Floating button to trigger the pop-up -->
-  <div class="floating-button" id="popup-trigger">Open Pop-up</div>
-
   <!-- Include the necessary BotPress WebChat script -->
   <script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
   <script>
-    // Add an event listener to open the Calendly pop-up when the page loads
-    document.addEventListener("DOMContentLoaded", function() {
-      // Check if a certain condition is met (e.g., user clicks a button)
-      if (/* Your condition here */) {
-        // Define the pop-up window's properties (width, height, etc.)
-        const popupWidth = 600; // Adjust the width as needed
-        const popupHeight = 900; // Adjust the height as needed
-        const screenWidth = window.innerWidth;
-        const screenHeight = window.innerHeight;
-        const left = (screenWidth - popupWidth) / 2;
-        const top = (screenHeight - popupHeight) / 2;
+    // Define the pop-up window's properties (width, height, etc.)
+    const popupWidth = 600; // Adjust the width as needed
+    const popupHeight = 900; // Adjust the height as needed
+    const screenWidth = window.innerWidth;
+    const screenHeight = window.innerHeight;
+    const left = (screenWidth - popupWidth) / 2;
+    const top = (screenHeight - popupHeight) / 2;
 
-        // Open the Calendly pop-up window with the desired URL
-        const newWindow = window.open('https://calendly.com/tundrajunk/book-a-meeting', '_blank', `width=${popupWidth},height=${popupHeight},left=${left},top=${top}`);
+    // Open the Calendly pop-up window with the desired URL as soon as the page loads
+    const newWindow = window.open('https://calendly.com/tundrajunk/book-a-meeting', '_blank', `width=${popupWidth},height=${popupHeight},left=${left},top=${top}`);
 
-        // Ensure the new window has opened successfully
-        if (newWindow) {
-          // You can perform additional actions here if needed
-        } else {
-          // Handle the case where the pop-up window failed to open
-          console.error('Failed to open the pop-up window.');
-        }
-      }
-    });
+    // Ensure the new window has opened successfully
+    if (newWindow) {
+      // You can perform additional actions here if needed
+    } else {
+      // Handle the case where the pop-up window failed to open
+      console.error('Failed to open the pop-up window.');
+    }
   </script>
 </body>
 </html>
-
