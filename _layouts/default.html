@@ -48,6 +48,28 @@
         Calendly.initPopupWidget({ url: calendlyLink.href });
       });
     });
+
+    // Check if the workflow.userQuestion is set to "Book Meeting" and open the pop-up
+    if (workflow.userQuestion === 'Book Meeting') {
+      // Calculate the horizontal and vertical position to center the pop-up
+      const popupWidth = 600; // Adjust the width as needed
+      const popupHeight = 900; // Adjust the height as needed
+      const screenWidth = window.innerWidth;
+      const screenHeight = window.innerHeight;
+      const left = (screenWidth - popupWidth) / 2;
+      const top = (screenHeight - popupHeight) / 2;
+
+      // Create a new window with the Calendly link
+      const newWindow = window.open('https://calendly.com/tundrajunk/book-a-meeting', '_blank', `width=${popupWidth},height=${popupHeight},left=${left},top=${top}`);
+
+      // Ensure the new window has opened successfully
+      if (newWindow) {
+        // You can perform additional actions here if needed
+      } else {
+        // Handle the case where the pop-up window failed to open
+        console.error('Failed to open the pop-up window.');
+      }
+    }
   </script>
 </body>
 </html>
