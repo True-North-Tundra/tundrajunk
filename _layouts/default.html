@@ -38,16 +38,14 @@
   {% include google-analytics.html %}
   <script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
   <script src="https://mediafiles.botpress.cloud/734c9d7d-b741-4752-a68d-486608b77a50/webchat/config.js" defer></script>
+  <!-- Your Customized Script -->
   <script>
-    // Add event listener to open Calendly pop-up
-    document.addEventListener("DOMContentLoaded", function() {
-      var calendlyLink = document.getElementById("calendly-link");
-
-      calendlyLink.addEventListener("click", function(e) {
-        e.preventDefault();
-        Calendly.initPopupWidget({ url: calendlyLink.href });
-      });
-    });
+    window.botpressWebChat.onEvent(
+        function () {
+            window.botpressWebChat.sendEvent({ type: "show" });
+        },
+        ["LIFECYCLE.LOADED"]
+    );
   </script>
 </body>
 </html>
