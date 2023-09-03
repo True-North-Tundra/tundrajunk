@@ -23,32 +23,31 @@
   <meta name="twitter:card" content="summary"/>
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
+
 </head>
 
-<body>
-  <!-- Your HTML content, navigation, and layout go here -->
-  
-  <!-- Include the necessary BotPress WebChat script -->
+<body class='page {{layout.bodyClass}}'>
+  {% include main-menu-mobile.html %}
+  <div id="wrapper" class="wrapper">
+    {% include header.html headerClass='header-extra' %}
+    {{content}}
+  </div>
+  {% include footer.html %}
+  {% include sub-footer.html %}
+  <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
+  {% include google-analytics.html %}
   <script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+  <script src="https://mediafiles.botpress.cloud/734c9d7d-b741-4752-a68d-486608b77a50/webchat/config.js" defer></script>
   <script>
-    // Define the pop-up window's properties (width, height, etc.)
-    const popupWidth = 600; // Adjust the width as needed
-    const popupHeight = 900; // Adjust the height as needed
-    const screenWidth = window.innerWidth;
-    const screenHeight = window.innerHeight;
-    const left = (screenWidth - popupWidth) / 2;
-    const top = (screenHeight - popupHeight) / 2;
+    // Add event listener to open Calendly pop-up
+    document.addEventListener("DOMContentLoaded", function() {
+      var calendlyLink = document.getElementById("calendly-link");
 
-    // Open the Calendly pop-up window with the desired URL as soon as the page loads
-    const newWindow = window.open('https://calendly.com/tundrajunk/book-a-meeting', '_blank', `width=${popupWidth},height=${popupHeight},left=${left},top=${top}`);
-
-    // Ensure the new window has opened successfully
-    if (newWindow) {
-      // You can perform additional actions here if needed
-    } else {
-      // Handle the case where the pop-up window failed to open
-      console.error('Failed to open the pop-up window.');
-    }
+      calendlyLink.addEventListener("click", function(e) {
+        e.preventDefault();
+        Calendly.initPopupWidget({ url: calendlyLink.href });
+      });
+    });
   </script>
 </body>
 </html>
